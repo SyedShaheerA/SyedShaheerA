@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedShaheerA
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I have experience in C++, C, Java, Html, Css and Bootstrap.
 - 💞️ I’m looking to help
 - 📫 Need Help just ask :)
 
