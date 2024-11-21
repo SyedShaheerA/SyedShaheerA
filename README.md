@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedShaheerA
-- 👀 I’m interested in coding
-- 🌱 I have experience in C++, C, Python, Java, Html, Css and Bootstrap.
+- 👀 Software Engineer ! 
+- 🌱 Experience In Full Stack Project Development, AI, LLMs, NLP
 - 💞️ I’m looking to help
 - 📫 Need Help just ask :)
 
