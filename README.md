@@ -1,7 +1,6 @@
 # Hi, I'm Syed Shaheer Ali 👋
 
-### Software Engineer | Data Science & AI Master's Student @ GISMA 
-
+### Software Engineer | Data Science & AI Master's Student 
 I am a Software Engineer transitioning into the world of Data Science and Artificial Intelligence. With a background in Full Stack development and a professional focus on NLP and LLMs, I build applications that bridge the gap between complex data and intuitive user experiences.
 
 ---
