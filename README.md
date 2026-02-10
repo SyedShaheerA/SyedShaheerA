@@ -21,7 +21,7 @@ I am a Software Engineer transitioning into the world of Data Science and Artifi
 
 ### 📈 Current Focus
 - 🎓 Completing my Master’s in **Data Science & AI** in Potsdam.
-- 🇩🇪 Improving my **German** language skills (Current Level: A2).
+- 🇩🇪 Improving my **German** language skills (Current Level: B1 - In Progress).
 - 🤖 Building scalable AI-driven web applications.
 
 ### 📫 Connect with me
